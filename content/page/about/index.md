@@ -1,5 +1,6 @@
 ---
 title: 关于我
+slug: about
 menu:
     main: 
         weight: -90
