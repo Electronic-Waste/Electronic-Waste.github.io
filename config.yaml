@@ -1,4 +1,4 @@
-baseurl: https://Electronic-Waste.github.io
+baseurl: https://blog.electronicwaste.cn
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 5
