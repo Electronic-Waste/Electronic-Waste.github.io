@@ -354,7 +354,37 @@ $$&lt;/p></description></item><item><title>Emoji Support</title><link>https://bl
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">}&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
-&lt;/div></description></item><item><title>关于我</title><link>https://blog.electronicwaste.cn/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.electronicwaste.cn/about/</guid><description>&lt;p>This is a test page for i18n support.&lt;/p></description></item><item><title>链接</title><link>https://blog.electronicwaste.cn/link/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.electronicwaste.cn/link/</guid><description>&lt;p>To use this feature, add &lt;code>links&lt;/code> section to frontmatter.&lt;/p>
+&lt;/div></description></item><item><title>关于</title><link>https://blog.electronicwaste.cn/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.electronicwaste.cn/about/</guid><description>&lt;p>&lt;img src="https://blog.electronicwaste.cn/about/sunset.jpg"
+width="1706"
+height="1280"
+srcset="https://blog.electronicwaste.cn/about/sunset_hu59c93accb03ff3f65d1b219b7bce0863_64026_480x0_resize_q75_box.jpg 480w, https://blog.electronicwaste.cn/about/sunset_hu59c93accb03ff3f65d1b219b7bce0863_64026_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="最喜欢的风景——闵大荒的落日"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
+>&lt;/p>
+&lt;h2 id="关于博客">关于博客&lt;/h2>
+&lt;p>你好！欢迎来到Electronic-Waste的小破站！&lt;/p>
+&lt;p>在2023年1月19日，它正式上线和大家见面啦😆！欢迎大家多来小破站看看逛逛，看到好的内容不妨&lt;del>点个赞投个币三连一波&lt;/del>（喂，真当自己是小破站啦！）点击下面的链接Follow我一波，如果能给我的repo和文章点几个赞那更是感激不尽👀，在此先行拜谢啦😋！&lt;/p>
+&lt;p>有人说（好吧我承认，就是我自己说的🤡）：&lt;/p>
+&lt;blockquote>
+&lt;p>一个程序员职业生涯从有自己博客的那一天开始&lt;/p>
+&lt;/blockquote>
+&lt;p>但不可否认的是，写博客是一种很好的记录方式，不仅可以防止自己因为把文档扔在了某个犄角旮旯然后找半天找不到（没错！说的就是我！🐶），也可以让自己去总结反思学过的技术，不至于用完就忘下次还得继续Bing一下（没错！说的还是我！🐶)，同时也能帮助到那些有同样困惑的程序员，让他们早日关闭打开的数十个标签页（说的还是谁的血泪史😭😭😭）。而且，当我数十年之后回来看自己的博客，看自己从一个技术小白慢慢地成长，一点一滴地积累技术，从青涩到成熟，从满头青丝到眉须花白，应该会感到非常的亲切、感动吧！&lt;/p>
+&lt;p>总而言之，言而总之，之后我会在小破站里更新自己的一些技术日常和思考，不定期总结和分享经历（乱入🐶）。欢迎来和我交流！！！&lt;/p>
+&lt;h2 id="关于我">关于我&lt;/h2>
+&lt;h3 id="个人简介">个人简介&lt;/h3>
+&lt;p>我是Electronic-Waste，aka.王劭，上海交通大学软件工程专业20级本科生。&lt;/p>
+&lt;p>生于非典，考于新冠😵。我出生于2002年，2020年从浙南一个美丽的海滨城市通过三位一体考入上海交通大学（人生巅峰了属于是😀），误打误撞之下进入了现在的专业学习。&lt;/p>
+&lt;p>目前，我正致力于提升自己羸弱的coding水平😭（大佬们带带我啊！求求了！😟），以提升在本专业生活学习的幸福指数（bushi）。大学以来，尤其是2022年春季学期之后，我开始被专业课暴杀😭，只能靠之前平台课的大量学分将成绩维持在一个相对不错的水平（什么小镇做题家啊🤡)，依靠各位大佬直接上手教或者间接但不便明说的方式指点（🐶）才勉强活下来。不过不吹不黑，软院真的yyds！各种硬核的lab和大作业给我的能力带来了很大的提升，也让我对专业知识有了更深入的理解，上过的各种课质量也非常高，强烈安利！&lt;/p>
+&lt;p>我平时的爱好有健身💪、篮球🏀、吹口琴🎼还有睡觉🛌，欢迎来和我一起交流（of course除了最后一个🐶）！&lt;/p>
+&lt;h3 id="为什么叫electronic-waste">为什么叫Electronic-Waste&lt;/h3>
+&lt;p>计算机的基础是一个又一个的晶体管&amp;mdash;&amp;gt;Electronic（电子的）&lt;/p>
+&lt;p>专业大佬很多，课程也很难，让我感觉自己是fw🤡&amp;mdash;&amp;gt;Waste（垃圾，废弃物）&lt;/p>
+&lt;p>天哪！这两个词合起来说的不就是我嘛🐶——一个正在计算机相关专业就读的电子废弃物！&lt;/p>
+&lt;h3 id="联系方式">联系方式&lt;/h3>
+&lt;p>往下拉！往下拉！就在最下面，点进去就行！😉&lt;/p></description></item><item><title>链接</title><link>https://blog.electronicwaste.cn/link/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.electronicwaste.cn/link/</guid><description>&lt;p>To use this feature, add &lt;code>links&lt;/code> section to frontmatter.&lt;/p>
 &lt;p>This page&amp;rsquo;s frontmatter:&lt;/p>
 &lt;div class="highlight">&lt;div class="chroma">
 &lt;table class="lntable">&lt;tr>&lt;td class="lntd">
