@@ -2,7 +2,7 @@ baseurl: https://blog.electronicwaste.cn
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: Electronic-Waste的博客
 
 languages:
     zh-cn:
