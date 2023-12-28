@@ -120,11 +120,11 @@ menu:
           url: https://github.com/Electronic-Waste
           params:
               icon: brand-github
-        - identifier: zhihu
-          name: Zhihu
-          url: https://www.zhihu.com/people/zhong-hua-yi-diao-si
+        - identifier: linkedin
+          name: Linkedin
+          url: https://www.linkedin.com/in/shao-wang-0121532a2/
           params:
-              icon: zhihu
+              icon: linkedin
         - identifier: mail
           name: Gmail
           url: mailto:shaowang2002@gmail.com
