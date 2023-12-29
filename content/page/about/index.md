@@ -42,8 +42,6 @@ links:
 
 1. [envd](https://github.com/tensorchord/envd)：一个容器化的AI/ML开发环境配置工具。————Contributor
 
-我正在积极寻找工业界的机会，如果你对我感兴趣，可以到本文末尾获取我的简历和联系方式。
-
 ### 为什么叫Electronic-Waste
 
 计算机的基础是一个又一个的晶体管--->Electronic（电子的）
@@ -54,8 +52,7 @@ links:
 
 ### 个人简历
 
-\[[Resume-zh](resume-zh.pdf)\]
+我正在积极寻找工业界的机会，如果你对我感兴趣，可以在下方获取我的简历。
 
-### 联系方式
-见下方的链接
+\[[Resume-zh](resume-zh.pdf)\]
 
