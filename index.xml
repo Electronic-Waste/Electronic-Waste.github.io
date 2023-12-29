@@ -1,4 +1,306 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Electronic-Waste的博客</title><link>https://blog.electronicwaste.cn/</link><description>Recent content on Electronic-Waste的博客</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Tue, 26 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.electronicwaste.cn/index.xml" rel="self" type="application/rss+xml"/><item><title>Structured Log</title><link>https://blog.electronicwaste.cn/p/structured-log/</link><pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate><guid>https://blog.electronicwaste.cn/p/structured-log/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Electronic-Waste的博客</title><link>https://blog.electronicwaste.cn/</link><description>Recent content on Electronic-Waste的博客</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Thu, 28 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.electronicwaste.cn/index.xml" rel="self" type="application/rss+xml"/><item><title>2023年度总结</title><link>https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</link><pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate><guid>https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</guid><description>&lt;h2 id="前言">前言&lt;/h2>
+&lt;blockquote>
+&lt;p>寒来暑往，已近年末。值此新年之际，作此文聊感之。&lt;/p>
+&lt;/blockquote>
+&lt;p>2023是迷茫但又充满希望的一年。&lt;/p>
+&lt;p>因为迷茫，在这一年里我做了很多尝试，探索了各种可能性，用努力点燃的微弱的火烛拨开重重迷雾，试图照亮脚下泥泞的人生小道。走着走着，我被命运推到了一个黢黑的分叉口，向着一条一眼望不见尽头的道路，带着怀疑、忐忑的心情，毅然走了下去。&lt;/p>
+&lt;p>所幸，所选的道路虽然荆棘丛生，但并无毒蛇猛兽，头顶的夜空也闪烁着希望的星光&amp;hellip;&lt;/p>
+&lt;h2 id="学业">学业&lt;/h2>
+&lt;p>和前言里说的一样，迷茫却又有点点希望。&lt;/p>
+&lt;h3 id="大三上的尾巴">大三上的尾巴&lt;/h3>
+&lt;p>年初，在疫情笼罩的阴影中，我通过了编译Lab的答辩，结束了摆烂的大三上。各种作业逾期的后果是显而易见的，虽然我成功躲过了第一波疫情，没在期末周发烧，但期末各科的成绩仍不好看，排名也有所下滑。但我其实并没有什么感觉，或者说对无休止的“绩点大战”早已心生厌倦。对于我来说，只要能保研，其实多少名都无所谓（但是后来我发现可能不是这样子的，绩点排名还是挺重要的😇，尤其是在激烈的保研接受资格的争夺战当中），22年春天和秋冬的lockdown让我不停怀疑人生的意义，失去了卷的动力。&lt;/p>
+&lt;h3 id="大三下的求索">大三下的求索&lt;/h3>
+&lt;p>接着到了大三下，疫情终于过去，课业压力相比于大二下大三上降低了很多，我的精神状态有了很大的好转。由于到了各种选择的关键节点，我开始仔细思考未来的方向，对以前一些幼稚的想法进行了一些修正。&lt;/p>
+&lt;p>在大三下以前，我认为努力学课内知识并没有什么意义，因为当时觉得找工作主要就是算法题和八股，项目的话把在软院做的东西写上去就行（还得是软院给了之前的我摆烂的底气😇），然后就能混进大厂了。
+后面真正开始找实习的时候发现，如果好好听课写作业的话很多八股不用背就能会，量化之类的高薪岗位也都很喜欢成绩好、基本功扎实的的本科生，而这些都需要平时一点一滴的积累，你上课听进去的每一个知识点、下课写的每一行代码都作数，都会成为你找工作时最坚强的后盾。更重要的是，我认识到了：&lt;/p>
+&lt;blockquote>
+&lt;p>以前我总把找到工作当作所有努力的终点，但是事实上这只是人生真正的起点。&lt;/p>
+&lt;p>在往后数十年的职业生涯中，毫无背景的你所能依仗的只有自己过往所学，和那一腔愿意不断求索、不断提升自己的怀抱着希望的热血，以立足于社会，挺过一个又一个“裁员潮”“寒冬”，追逐自己想要的生活。&lt;/p>
+&lt;/blockquote>
+&lt;p>然后我彻底抛弃了以往摆烂的心态，开始更加积极地面对自己的学业，和往后的人生。接着我开始进行了一系列探索，去寻找适合自己的路：&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>工作：大三下学期开学的时候，任老师带我们去参观Optiver，我第一次了解到有量化这个行业，薪资待遇都很不错，很心动。但是我几乎什么都没有准备，简历、算法题、八股文、项目之类的全都是空白，已经来不及了(此处真的很想敲死之前摆烂的自己)。报了阿里的一个暑期实习面试，没想到电话面就直接挂掉了🤡，这进一步打击了我的求职信心。后来找任老师聊了聊，老师说除非我放弃保研选择老师的机会还有所有的课业，全身心投入到找工作当中，不然不可能找到好的暑期实习/工作。后来我想想觉得不太稳妥，于是这条路就寿终正寝了。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>保研：由于对K8s还有网络这一块还算感兴趣，我在三月份的时候联系了任老师，开始进组听组会。由于之前一直想去IPADS，我在四月份冲了一波直博面试，然后不出所料寄了（现在想想还好当时选了博士，如果选的是硕士还真有可能就进去了，现在估计得累死累活）。然后之后又联系了一个计算机系搞AI的老师，划水摸鱼做了几个月之后发现不感兴趣，遂作罢，开始安心在任老师组&lt;del>摸鱼&lt;/del>听组会。唯一后悔的是没有参加计算机系的夏令营，参加了之后说不定会有更多选择的机会，但是往事不能重来，只能相信一切都是最好的安排。&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>&lt;img src="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/optiver1.jpg"
+width="4608"
+height="3456"
+srcset="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/optiver1_hu2e1535aec910147513d5e6b44b1c1e98_2994204_480x0_resize_q75_box.jpg 480w, https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/optiver1_hu2e1535aec910147513d5e6b44b1c1e98_2994204_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="参观Optiver的下午"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+> &lt;img src="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/optiver2.jpg"
+width="4096"
+height="3072"
+srcset="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/optiver2_hu1da38a13312b9fcbe389fd0e95cf6a96_1666506_480x0_resize_q75_box.jpg 480w, https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/optiver2_hu1da38a13312b9fcbe389fd0e95cf6a96_1666506_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Optiver的茶歇"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>这个学期基本上除了OS课，我课上都在划水摸鱼。由于我五一玩得太嗨，之后又有一堆杂事，中间喜提初阳发烧了一个星期，导致我中间至少有两个星期的时间没有碰Minik8s，更要命的是青青看我没怎么写Minik8s所以也比较摆。所以最后Minik8s的进度非常的紧张，一度到了离验收只剩两个星期但是只完成了两个任务的尴尬境地，Ops直呼好家伙。于是在最后两个星期，我和组长Ops还有青青每天都在陈瑞球楼的小教室从早上九点干到晚上十一点，写代码写到吐血，又是一段极度痛苦的经历😇。最后，我们在答辩的前夜通宵赶进度，但是还是没有完成全部的功能，演示只拿了92分，一度让我十分愧疚。&lt;/p>
+&lt;p>&lt;img src="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/zixi.jpg"
+width="1706"
+height="1280"
+srcset="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/zixi_hu0e1c9ba555bc6de1f2c063bfa3f69196_182342_480x0_resize_q75_box.jpg 480w, https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/zixi_hu0e1c9ba555bc6de1f2c063bfa3f69196_182342_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="陈瑞球楼的自习教室"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
+> &lt;img src="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/yulanyuan.jpg"
+width="1280"
+height="1706"
+srcset="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/yulanyuan_huacebefefc0c5e67a2f2c8861e67ecd8f_245177_480x0_resize_q75_box.jpg 480w, https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/yulanyuan_huacebefefc0c5e67a2f2c8861e67ecd8f_245177_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="通宵后早上六点的玉兰苑"
+class="gallery-image"
+data-flex-grow="75"
+data-flex-basis="180px"
+>&lt;/p>
+&lt;h3 id="打工人的暑假">打工人的暑假&lt;/h3>
+&lt;p>暑假里任老师把我捞去组里干活了，于是我的身份从一个本科生变成了每天上班下班的社畜。印象很深刻的是干的项目需要一些天文学知识，我完全不会，然后在Github上疯狂找现成的库，最终艰难解决问题（给我留下了很深的阴影）。不过总体来讲还算是挺有收获的，在经过项目的洗礼，以及读完张磊的《深入剖析Kubernetes》之后，我对K8s和它的生态有了更为深入的理解，也渐渐开始喜欢上了云原生这个领域。&lt;/p>
+&lt;p>在七月底弄完这个项目之后，任老师说可以去干干别的事情，于是我就开始边刷Leetcode边投实习了。在近一个月的时间里，我刷了一百多道Leetcode，改了好几版中英文简历，在面试中学八股🤡，中间抽了一个星期的时间去苏州参加了一个人工智能训练营，浅浅入门了AI领域。功夫不负有心人，在被一堆公司挂掉之后，Intel给我发来了offer，给了当时极度自卑的我一些信心，但是最后因为种种原因我没有成行，这里就不作展开了。&lt;/p>
+&lt;h3 id="大四上保研">大四上！保研！&lt;/h3>
+&lt;p>随着九月份开学，一年一度兵荒马乱的保研季到了。我经历的保研之路不可不谓惊心动魄，中间我一度因以为自己有可能拿不到保研名额而提心吊胆，后来又经历了导师接受资格争夺战，以及机考和面试，最终几经波折顺利保研，平稳落地，真的是太刺激了。&lt;/p>
+&lt;p>此外值得一提的是，在尘埃落定之后，我跟学长还有任老师参加了KubeCon China 2023。这次经历让我对平时听起来感觉高大上又神秘的会议有了一个新的认识，这类学术/工业界的会议事实上是以开放平等的姿态接纳每一个与会者的，每个人都可以和主讲人平等而又友好地交流技术，而非我所想的等级森严。在KubeCon的这三天，我听了很多感兴趣的演讲，它们开拓了我的眼界，让我对Kubernetes生态有了一个更加深入的认识，也在我的心底埋下了开源的种子。&lt;/p>
+&lt;p>&lt;img src="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/kubecon.jpg"
+width="4096"
+height="3072"
+srcset="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/kubecon_hu8ab6a8e327a37c03f98a29c131785c9e_2356803_480x0_resize_q75_box.jpg 480w, https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/kubecon_hu8ab6a8e327a37c03f98a29c131785c9e_2356803_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="参加KubeCon"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+> &lt;img src="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/graduate.jpg"
+width="892"
+height="655"
+srcset="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/graduate_hu768b8c3e8ec8004e3093c2589e1915b5_96491_480x0_resize_q75_box.jpg 480w, https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/graduate_hu768b8c3e8ec8004e3093c2589e1915b5_96491_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="保研啦"
+class="gallery-image"
+data-flex-grow="136"
+data-flex-basis="326px"
+>&lt;/p>
+&lt;p>随后的日子便像是一脚跨入了研究生阶段，每天上下班，干老师的项目，每周开一次组会和若干次与外包公司的联调会（外包公司程序员水平属实有点捉急，有点折磨）。不过好在空余的时间比较多，任老师人也很nice不push，我可以有时间去学自己想学的东西，探索新的领域，可以选研究生课、写毕设论文，尽可能将研究生的压力offload到大四。充实而又美好日子就这样一天一天过去，虽然偶有繁忙时刻但无伤大雅，大部分时间还是可以静下心来钻研自己喜欢的东西的。我十分感谢三年来还算努力的自己，为自己争取到了这样一大块闲暇又充实的时光。&lt;/p>
+&lt;p>最近，我在HPC领域有了一些探索，加入了一个由一群志同道合的人组成的集体；于此同时，我也正式成为了一名开源贡献者，为开源社区贡献了一些代码。俗话说，“有心栽花花不成，无心插柳柳成荫”，希望今天埋下的种子，有一天能够生根发芽，最终长成参天大树吧。&lt;/p>
+&lt;h2 id="生活">生活&lt;/h2>
+&lt;p>疫情终于结束了，这一年我走过了很多地方，我(自己一个人/和同学/和女朋友小杭)出去旅游了几次，享受了久违的大学生活。也在线下参加了很多有意思的活动，尤其是utjs选修课，特别好玩特别怀念，也交了很多朋友！&lt;/p>
+&lt;p>&lt;img src="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/dongtou1.jpg"
+width="4096"
+height="3072"
+srcset="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/dongtou1_hu3a029efc163a410fc08f6d27a49c797f_3216218_480x0_resize_q75_box.jpg 480w, https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/dongtou1_hu3a029efc163a410fc08f6d27a49c797f_3216218_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="洞头·好看的海岛山峰"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+> &lt;img src="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/dongtou2.jpg"
+width="4096"
+height="3072"
+srcset="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/dongtou2_hub5eae33a1322bc55a88de44e2b0fd1bd_2218494_480x0_resize_q75_box.jpg 480w, https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/dongtou2_hub5eae33a1322bc55a88de44e2b0fd1bd_2218494_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="洞头·海岛落日"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>&lt;img src="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/chaoshan1.jpg"
+width="4608"
+height="3456"
+srcset="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/chaoshan1_huc98e7dc0b3f964c8afb2824ee82a3516_2663250_480x0_resize_q75_box.jpg 480w, https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/chaoshan1_huc98e7dc0b3f964c8afb2824ee82a3516_2663250_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="潮汕找小杭·爬山"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+> &lt;img src="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/chaoshan2.jpg"
+width="4096"
+height="3072"
+srcset="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/chaoshan2_hu9d0fe2f03788fcdbe0bfaf1129dc7dcc_2920443_480x0_resize_q75_box.jpg 480w, https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/chaoshan2_hu9d0fe2f03788fcdbe0bfaf1129dc7dcc_2920443_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="潮汕找小杭·江景"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>&lt;img src="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/quanzhou1.jpg"
+width="4096"
+height="3072"
+srcset="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/quanzhou1_hu1e59c0f800ead703b3c825b3ada150b2_2170902_480x0_resize_q75_box.jpg 480w, https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/quanzhou1_hu1e59c0f800ead703b3c825b3ada150b2_2170902_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="泉州找室友Ops·开元寺"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+> &lt;img src="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/quanzhou2.jpg"
+width="4096"
+height="3072"
+srcset="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/quanzhou2_hu260fd85e11a0d7a2bfe80536d7317f00_2942051_480x0_resize_q75_box.jpg 480w, https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/quanzhou2_hu260fd85e11a0d7a2bfe80536d7317f00_2942051_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="泉州找室友Ops·游湖谈天"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+> &lt;img src="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/quanzhou3.jpg"
+width="4096"
+height="3072"
+srcset="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/quanzhou3_huaef30fdea588b8f2e9e97f1c4b16e034_3055369_480x0_resize_q75_box.jpg 480w, https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/quanzhou3_huaef30fdea588b8f2e9e97f1c4b16e034_3055369_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="泉州找室友Ops·喝茶"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>&lt;img src="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/guangzhou1.jpg"
+width="1280"
+height="1706"
+srcset="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/guangzhou1_hua3e75e41f6a1a7922128416533a9de90_92288_480x0_resize_q75_box.jpg 480w, https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/guangzhou1_hua3e75e41f6a1a7922128416533a9de90_92288_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="三刷广州·广州塔"
+class="gallery-image"
+data-flex-grow="75"
+data-flex-basis="180px"
+> &lt;img src="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/guangzhou2.jpg"
+width="1280"
+height="1706"
+srcset="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/guangzhou2_hu129c81f3df2931b463fda6792c222b01_226218_480x0_resize_q75_box.jpg 480w, https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/guangzhou2_hu129c81f3df2931b463fda6792c222b01_226218_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="三刷广州·越秀公园"
+class="gallery-image"
+data-flex-grow="75"
+data-flex-basis="180px"
+>&lt;/p>
+&lt;p>&lt;img src="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/guangzhou3.jpg"
+width="1706"
+height="1280"
+srcset="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/guangzhou3_hu885402762579429f0fe1c06cf15ac325_200638_480x0_resize_q75_box.jpg 480w, https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/guangzhou3_hu885402762579429f0fe1c06cf15ac325_200638_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="三刷广州·北京路"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
+> &lt;img src="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/guangzhou4.jpg"
+width="1706"
+height="1280"
+srcset="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/guangzhou4_hu19a9007385fb18c96cec4fcfabfb0bc3_77476_480x0_resize_q75_box.jpg 480w, https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/guangzhou4_hu19a9007385fb18c96cec4fcfabfb0bc3_77476_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="三刷广州·厦滘"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
+>&lt;/p>
+&lt;p>&lt;img src="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/changsha1.jpg"
+width="4096"
+height="3072"
+srcset="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/changsha1_hufb5ff88a80a07914f3b2e1f54f331032_2640617_480x0_resize_q75_box.jpg 480w, https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/changsha1_hufb5ff88a80a07914f3b2e1f54f331032_2640617_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="长沙之旅·笨萝卜"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+> &lt;img src="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/changsha3.jpg"
+width="4096"
+height="3072"
+srcset="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/changsha3_huef7c9131001782dd993469551b142565_4271348_480x0_resize_q75_box.jpg 480w, https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/changsha3_huef7c9131001782dd993469551b142565_4271348_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="长沙之旅·五一步行街"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>&lt;img src="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/changsha2.jpg"
+width="4096"
+height="3072"
+srcset="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/changsha2_hu043eb88d77430520712dd33365ee8ec0_2715583_480x0_resize_q75_box.jpg 480w, https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/changsha2_hu043eb88d77430520712dd33365ee8ec0_2715583_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="长沙之旅·毛爷爷"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+> &lt;img src="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/changsha4.jpg"
+width="4608"
+height="3456"
+srcset="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/changsha4_hu2fb39fc43bc95eb3ca91809f118d3190_3205615_480x0_resize_q75_box.jpg 480w, https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/changsha4_hu2fb39fc43bc95eb3ca91809f118d3190_3205615_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="长沙之旅·茶颜"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>&lt;img src="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/suzhou1.jpg"
+width="4096"
+height="3072"
+srcset="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/suzhou1_hufeff97c919d1c619a1a4137cf6b41d7c_3322982_480x0_resize_q75_box.jpg 480w, https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/suzhou1_hufeff97c919d1c619a1a4137cf6b41d7c_3322982_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="苏州·苏州湾博物馆"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+> &lt;img src="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/suzhou2.jpg"
+width="4096"
+height="3072"
+srcset="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/suzhou2_hu86b10f9653c5a5fdea8711c5b1fd9edf_2270609_480x0_resize_q75_box.jpg 480w, https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/suzhou2_hu86b10f9653c5a5fdea8711c5b1fd9edf_2270609_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="苏州·太湖"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>&lt;img src="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/chengdu1.jpg"
+width="4096"
+height="3072"
+srcset="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/chengdu1_hu3c959c467d81ea5479ca9f0253cb10c0_3549830_480x0_resize_q75_box.jpg 480w, https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/chengdu1_hu3c959c467d81ea5479ca9f0253cb10c0_3549830_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="成都·大熊猫"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+> &lt;img src="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/chengdu3.jpg"
+width="3582"
+height="1945"
+srcset="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/chengdu3_hu46efccfbc4fdeb2a33ce0ce8e2dde11d_1986611_480x0_resize_q75_box.jpg 480w, https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/chengdu3_hu46efccfbc4fdeb2a33ce0ce8e2dde11d_1986611_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="成都·玉林路"
+class="gallery-image"
+data-flex-grow="184"
+data-flex-basis="441px"
+>&lt;/p>
+&lt;p>&lt;img src="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/chengdu2.jpg"
+width="4096"
+height="3072"
+srcset="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/chengdu2_hu506eaa85c1f732977760fd50c45dc1d3_3170835_480x0_resize_q75_box.jpg 480w, https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/chengdu2_hu506eaa85c1f732977760fd50c45dc1d3_3170835_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="成都·锦里"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+> &lt;img src="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/chengdu4.jpg"
+width="4096"
+height="3072"
+srcset="https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/chengdu4_huee95ec02dae6fb99591b044161a8d4bb_3423597_480x0_resize_q75_box.jpg 480w, https://blog.electronicwaste.cn/p/2023%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/chengdu4_huee95ec02dae6fb99591b044161a8d4bb_3423597_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="成都·杜甫草堂"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;h2 id="总结未来">总结&amp;amp;未来&lt;/h2>
+&lt;p>这一年里我探索了一些其它的可能性，不过兜兜转转还是回到了计划的原点。不过保研也算是一个不错的选择吧，我也没有任何后悔可言。一点小小的缺憾是这一年玩得不是非常尽兴😤，明明有那么多时间，却都用来加班。周末和假期应该多出去走走，趁年轻还能玩得动多玩一玩😋。&lt;/p>
+&lt;p>至于未来的打算，就像我在&lt;a class="link" href="https://www.linkedin.com/in/shao-wang-0121532a2/" target="_blank" rel="noopener"
+>LinkedIn&lt;/a>写的个人简介那样：&lt;/p>
+&lt;blockquote>
+&lt;p>&amp;hellip;As a fanatical computer system fans, I have great enthusiasm for fields like cloud infrastructure, high performance computing. And I enjoy exploring unknown areas to me, such as AI infrastructure, LLMs. As for my future career life, my dream is to become an infrastructure developer designing scalable, robust and high performance systems for all kinds of workload!&amp;hellip;&lt;/p>
+&lt;/blockquote>
+&lt;p>希望在新的一年里我能多多沉淀，多读书多写代码，朝着我的梦想不断前进；也希望我能好好生活好好爱，在闲暇时光多去看看祖国的大好河山！&lt;/p></description></item><item><title>Structured Log</title><link>https://blog.electronicwaste.cn/p/structured-log/</link><pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate><guid>https://blog.electronicwaste.cn/p/structured-log/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
 &lt;p>日志作为一种帮助开发者快速定位问题的工具，在各个开源项目以及实际生产环境中都被广泛使用，其重要性不言而喻。但是，开发者往往是懒惰的，在开发的过程中为了图省事，经常不写log（比如说我），或者写的log极其粗糙（诸如&lt;code>fmt.Println(&amp;quot;OK&amp;quot;)&lt;/code>之流&amp;hellip;）。一旦程序出现了问题，根据现有的日志往往不能很好地定位到错误所在的地方，得花更多的时间打更多log（更是依托答辩）去找bug。&lt;/p>
 &lt;p>痛定思痛，我打算来学习Log的Best Practice，让我之后debug不要再那么痛苦，写的日志不要再那么答辩🤡&lt;/p>
 &lt;p>于是就有了本章&lt;strong>Structured Log&lt;/strong>！&lt;/p>
@@ -1077,12 +1379,10 @@ data-flex-basis="319px"
 &lt;li>&lt;a class="link" href="https://github.com/tensorchord/envd" target="_blank" rel="noopener"
 >envd&lt;/a>：一个容器化的AI/ML开发环境配置工具。————Contributor&lt;/li>
 &lt;/ol>
-&lt;p>我正在积极寻找工业界的机会，如果你对我感兴趣，可以到本文末尾获取我的简历和联系方式。&lt;/p>
 &lt;h3 id="为什么叫electronic-waste">为什么叫Electronic-Waste&lt;/h3>
 &lt;p>计算机的基础是一个又一个的晶体管&amp;mdash;&amp;gt;Electronic（电子的）&lt;/p>
 &lt;p>专业大佬很多，课程也很难，作业不会写，让我感觉自己是fw&amp;mdash;&amp;gt;Waste（垃圾，废弃物）&lt;/p>
 &lt;p>天哪！这两个词合起来说的不就是我嘛🤡——一个正在计算机相关专业就读的fw！&lt;/p>
 &lt;h3 id="个人简历">个人简历&lt;/h3>
-&lt;p>[&lt;a class="link" href="resume-zh.pdf" >Resume-zh&lt;/a>]&lt;/p>
-&lt;h3 id="联系方式">联系方式&lt;/h3>
-&lt;p>见下方的链接&lt;/p></description></item><item><title>搜索</title><link>https://blog.electronicwaste.cn/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.electronicwaste.cn/search/</guid><description/></item></channel></rss>
+&lt;p>我正在积极寻找工业界的机会，如果你对我感兴趣，可以在下方获取我的简历。&lt;/p>
+&lt;p>[&lt;a class="link" href="resume-zh.pdf" >Resume-zh&lt;/a>]&lt;/p></description></item><item><title>搜索</title><link>https://blog.electronicwaste.cn/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.electronicwaste.cn/search/</guid><description/></item></channel></rss>
