@@ -22,7 +22,9 @@ data-flex-basis="319px"
 &lt;p>同时，我也是一名开源爱好者，在兴趣相关的开源社区中贡献了一些代码：&lt;/p>
 &lt;ol>
 &lt;li>&lt;a class="link" href="https://github.com/tensorchord/envd" target="_blank" rel="noopener"
->envd&lt;/a>：一个容器化的AI/ML开发环境配置工具。————Contributor&lt;/li>
+>tensorchord/envd&lt;/a>：一个容器化的AI/ML开发环境配置工具。&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/kubeflow/katib" target="_blank" rel="noopener"
+>kubeflow/katib&lt;/a>：一个能自动进行超参数调优的AutoML工具。&lt;/li>
 &lt;/ol>
 &lt;h3 id="为什么叫electronic-waste">为什么叫Electronic-Waste&lt;/h3>
 &lt;p>计算机的基础是一个又一个的晶体管&amp;mdash;&amp;gt;Electronic（电子的）&lt;/p>
@@ -30,4 +32,4 @@ data-flex-basis="319px"
 &lt;p>天哪！这两个词合起来说的不就是我嘛🤡——一个正在计算机相关专业就读的fw！&lt;/p>
 &lt;h3 id="个人简历">个人简历&lt;/h3>
 &lt;p>如果你对我感兴趣，可以在下方获取我的简历。&lt;/p>
-&lt;p>[&lt;a class="link" href="resume-zh.pdf" >Resume-zh&lt;/a>]&lt;/p></description></item><item><title>搜索</title><link>https://blog.electronicwaste.cn/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.electronicwaste.cn/search/</guid><description/></item></channel></rss>
+&lt;p>[&lt;a class="link" href="resume-zh.pdf" >Resume-zh&lt;/a>] [&lt;a class="link" href="resume-en.pdf" >Resume-en&lt;/a>]&lt;/p></description></item><item><title>搜索</title><link>https://blog.electronicwaste.cn/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.electronicwaste.cn/search/</guid><description/></item></channel></rss>
