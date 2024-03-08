@@ -40,7 +40,8 @@ links:
 
 同时，我也是一名开源爱好者，在兴趣相关的开源社区中贡献了一些代码：
 
-1. [envd](https://github.com/tensorchord/envd)：一个容器化的AI/ML开发环境配置工具。————Contributor
+1. [tensorchord/envd](https://github.com/tensorchord/envd)：一个容器化的AI/ML开发环境配置工具。
+2. [kubeflow/katib](https://github.com/kubeflow/katib)：一个能自动进行超参数调优的AutoML工具。
 
 ### 为什么叫Electronic-Waste
 
@@ -54,5 +55,5 @@ links:
 
 如果你对我感兴趣，可以在下方获取我的简历。
 
-\[[Resume-zh](resume-zh.pdf)\]
+\[[Resume-zh](resume-zh.pdf)\] \[[Resume-en](resume-en.pdf)\]
 
