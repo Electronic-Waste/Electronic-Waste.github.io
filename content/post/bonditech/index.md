@@ -4,6 +4,7 @@ title = "四月，告别邦戴"
 date = "2024-04-26"
 description = "记录我的第一段实习"
 categories = [
+    "Internship",
     "Conclusion"
 ]
 tags = [
