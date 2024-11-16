@@ -30,18 +30,18 @@ links:
 
 ## 关于我
 ### 个人简介
-我是Electronic-Waste，aka.王劭，上海交通大学软件工程专业20级本科生。
+我是Electronic-Waste，aka.王劭，上海交通大学软件工程专业20级本科生，计算机科学与技术专业24级学术硕士研究生。
 
 生于非典，考于新冠。我出生于2002年，2020年从浙南一个美丽的海滨城市考入上海交通大学，误打误撞之下进入了现在的专业学习。
 目前，我通过保研进入了[SAIL实验室](https://github.com/sjtu-sail)，主要从事云原生基础设施(Cloud Infrastructure)和网络(Network)方面的研究。
 
-我是计算机系统的忠实拥趸😎，对Cloud Infrastructure等领域有极大的兴趣。并且，我对一些未知的领域，如AI Infrastructure、LLM，同样怀有强烈的探索欲望。
-在将来的职业生涯中，我希望成为一名基础架构工程师，为各种各样的工作负载开发可扩展、鲁棒、高性能的系统！
+同时，我也是一名开源爱好者，在一些开源社区中担任职务：
 
-同时，我也是一名开源爱好者，在兴趣相关的开源社区中贡献了一些代码：
+1. Maintainer of [SJTU-SE](https://github.com/SJTU-SE)：上海交通大学软件学院的民间组织
 
-1. [tensorchord/envd](https://github.com/tensorchord/envd)：一个容器化的AI/ML开发环境配置工具。
-2. [kubeflow/katib](https://github.com/kubeflow/katib)：一个能自动进行超参数调优的AutoML工具。
+2. Review of [kubeflow/katib](https://github.com/kubeflow/katib)：Kubernetes上的AutoML组件，kubeflow的子项目
+
+在未来，我希望成为一名基础架构工程师，开发可扩展、鲁棒、高性能的云原生AI/存储系统！
 
 ### 为什么叫Electronic-Waste
 
