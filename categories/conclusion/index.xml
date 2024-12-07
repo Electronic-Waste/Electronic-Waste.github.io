@@ -1,4 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>总结 on Electronic-Waste的博客</title><link>https://blog.electronicwaste.cn/categories/conclusion/</link><description>Recent content in 总结 on Electronic-Waste的博客</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Fri, 26 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.electronicwaste.cn/categories/conclusion/index.xml" rel="self" type="application/rss+xml"/><item><title>四月，告别邦戴</title><link>https://blog.electronicwaste.cn/p/%E5%9B%9B%E6%9C%88%E5%91%8A%E5%88%AB%E9%82%A6%E6%88%B4/</link><pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate><guid>https://blog.electronicwaste.cn/p/%E5%9B%9B%E6%9C%88%E5%91%8A%E5%88%AB%E9%82%A6%E6%88%B4/</guid><description>&lt;h2 id="前言">前言&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>总结 on Electronic-Waste的博客</title><link>https://blog.electronicwaste.cn/categories/conclusion/</link><description>Recent content in 总结 on Electronic-Waste的博客</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.electronicwaste.cn/categories/conclusion/index.xml" rel="self" type="application/rss+xml"/><item><title>2024年度总结</title><link>https://blog.electronicwaste.cn/p/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</link><pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate><guid>https://blog.electronicwaste.cn/p/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</guid><description>&lt;h2 id="前言">前言&lt;/h2>
+&lt;p>2024年1月8号，天很冷。但是刚打印好的毕设初稿拿在手里还是热乎乎的，我激动地把它递给任老师，“老师这是我的毕设初稿，都弄完了“，回应我的是意料之中的赞许。离研究生开学还有八个月，面对即将到来的、可以算得上是人生中最自由的一段时光，我既忐忑，又满怀憧憬。&lt;/p>
+&lt;p>一转眼又到了年底，初冬的上海还是那么的冷入骨髓，和年初交毕设初稿时不相上下。回望过去的一年，我感慨道，“真快啊，大学毕业了，成为牛马研究生了”，回应我的却是一个又一个意料之外的惊喜：&lt;strong>一段神奇的缘分、四段实习经历、向我敞开怀抱的开源社区，还有那让我毕生难忘的毕业旅行&lt;/strong>······我从未感到如此自由、如此青春，仿佛世间所有的美好都在向我展开。我想，我会无比怀念这一年。&lt;/p>
+&lt;h2 id="大年三十的上海虹桥站">大年三十的上海虹桥站&lt;/h2>
+&lt;p>印象中好像从来没有这么迟回家过年，今年是头一遭。&lt;/p>
+&lt;p>事情要从交完毕设说起，在任老师的推荐下，我进入了一家和我们实验室有合作关系的量化公司实习。由于成为半个牛马了，自然也要遵循牛马的作息，在学校生活惯了的我此刻也才真真正正对什么是“法定节假日”有了一个切身的体会：过年只有九天假期——虽然早已料到，但是却实在难以接受。相比于学校动辄四周的寒假，打工人的假期真的是太少太珍贵了。&lt;/p>
+&lt;p>在虹桥站，我看着攒动的人头，不禁觉得决定继续读研是一个正确的选择。毕竟人生那么长，留给工作的时间还有四十年，花个两三年的时间读个研给自己的学生时代续费，也算是一个不错的人生体验。&lt;/p>
+&lt;p>&lt;img src="https://blog.electronicwaste.cn/p/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/train-station.jpeg"
+width="1024"
+height="768"
+srcset="https://blog.electronicwaste.cn/p/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/train-station_hubc3bac9f54a00ec076dde29d22c31504_332593_480x0_resize_q75_box.jpeg 480w, https://blog.electronicwaste.cn/p/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/train-station_hubc3bac9f54a00ec076dde29d22c31504_332593_1024x0_resize_q75_box.jpeg 1024w"
+loading="lazy"
+alt="实习暂停，回家过年！"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>在我的&lt;a class="link" href="http://blog.electronicwaste.cn/p/%e5%9b%9b%e6%9c%88%e5%91%8a%e5%88%ab%e9%82%a6%e6%88%b4/" target="_blank" rel="noopener"
+>另外一篇博客&lt;/a>里，我详细描述了这段实习经历，在年终总结里我就不做展开了（笑）。&lt;/p>
+&lt;p>在实习之前，在网上各种信息&amp;amp;SE大环境氛围的影响下，我对量化抱有极高的热情和期待，觉得量化是当代CS/SE学子的版本答案，以后就业也是非量化不去。但是实习之后，我开始对量化有了一个更为理性的看法，用一个流行的词语来形容，就是对量化“祛魅”了。&lt;/p>
+&lt;p>在我看来，量化（开发）的好处有：&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>💰多&lt;/strong>：我相信这个量化是吸引大部分人的原因&lt;/li>
+&lt;li>&lt;strong>WLB&lt;/strong>：早九晚六不加班，对身体友好&lt;/li>
+&lt;/ol>
+&lt;p>坏处有：&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>非头部量化技术陈旧&lt;/strong>：基本上都是十几年前的东西，在非核心岗待久了会慢慢变得没有竞争力（非核心岗是相对于&lt;strong>高频交易系统开发等核心岗&lt;/strong>而言的，不可能每个人进去都搞交易系统，极大概率分去搞Infra、测试、偏运维的岗位）。&lt;/li>
+&lt;li>&lt;strong>HC少，和互联网技术栈不通用&lt;/strong>：体现在行业圈子小，跳槽对象少，也基本不可能往互联网跳。&lt;/li>
+&lt;li>&lt;strong>行情不稳定&lt;/strong>：国家不鼓励量化发展，行业过几年是否存在都是个问题&amp;hellip;&lt;/li>
+&lt;li>&lt;strong>氛围问题&lt;/strong>：众所周知量化的核心是交易系统和策略，因此在透明度和防贼等方面可能会用力过猛。&lt;/li>
+&lt;/ol>
+&lt;p>综合以上和个人兴趣因素的考量，我放弃了进非头部量化的就业意向。如果想去量化的话，我鼓励大家早点实习一次看看，毕竟只有自己试过一遍才知道究竟量化适不适合自己，然后慢慢做排除法，逐渐摸索出自己要走的路。&lt;/p>
+&lt;h2 id="清明前夕的北京">清明前夕的北京&lt;/h2>
+&lt;p>在2024年4月3日，清明节前夕，我和吴双在北京缔结了契约，成为了男女朋友。&lt;/p>
+&lt;p>&lt;img src="https://blog.electronicwaste.cn/p/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/wushuang.jpg"
+width="4032"
+height="3024"
+srcset="https://blog.electronicwaste.cn/p/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/wushuang_huc97ffdcfd5a57232a466f8d24ab79ae0_1132150_480x0_resize_q75_box.jpg 480w, https://blog.electronicwaste.cn/p/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/wushuang_huc97ffdcfd5a57232a466f8d24ab79ae0_1132150_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="和我共用一个姓名缩写ws的吴双"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>这段缘分来的十分奇妙又突然，在初春，在本科快毕业的时候，在那段自由的、发着光的日子里，这或许是上天最好的安排。一路上，我们积攒了很多甜蜜快乐的瞬间，一起去了很多很多地方、互相见证对方的重要时刻，我们也因此变成了京沪高铁的常客；也有一些不那么甜蜜、想要放弃的时刻，不过好在我们还是我们，因为爱意最终选择坚持，像她最喜欢的歌手JJ唱的那样，“这一生原本一个人，你坚持厮守成我们，所有未来说好一起等&amp;hellip;”。&lt;/p>
+&lt;p>吴双问过我，我喜欢她什么。我想，在褪去了最初的新鲜感，摘掉了情侣间的柔光滤镜之后，我最喜欢的是你身上的松弛和自洽。我是一个紧绷的人，时时刻刻在思考之后要做什么，之前一段时间里做的怎么样，怎么样才能最大化现有时间的价值，让我自己都时常觉得窒息。有的时候我想成为你，看淡外界的一切东西，专注于自己的感受和生活，懂得取悦自己，松弛而自由地活着，而不是成为一台整日忙忙碌碌的机器。&lt;/p>
+&lt;h2 id="在交大拍毕业照">在交大拍毕业照&lt;/h2>
+&lt;h2 id="拥抱开源">拥抱开源&lt;/h2>
+&lt;h2 id="毕业旅行">毕业旅行&lt;/h2>
+&lt;h2 id="敬那些难以忘怀的时刻">敬那些难以忘怀的时刻！&lt;/h2>
+&lt;h2 id="2024再见2025你好">2024再见，2025你好👋&lt;/h2></description></item><item><title>四月，告别邦戴</title><link>https://blog.electronicwaste.cn/p/%E5%9B%9B%E6%9C%88%E5%91%8A%E5%88%AB%E9%82%A6%E6%88%B4/</link><pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate><guid>https://blog.electronicwaste.cn/p/%E5%9B%9B%E6%9C%88%E5%91%8A%E5%88%AB%E9%82%A6%E6%88%B4/</guid><description>&lt;h2 id="前言">前言&lt;/h2>
 &lt;p>2024.4.24星期三，我结束了我的第一段量化实习，向曾经工作过三个月的地方投去了最后一瞥。&lt;/p>
 &lt;p>&lt;img src="https://blog.electronicwaste.cn/p/%E5%9B%9B%E6%9C%88%E5%91%8A%E5%88%AB%E9%82%A6%E6%88%B4/img/bonditech1.JPG"
 width="3024"
@@ -346,7 +397,7 @@ data-flex-basis="320px"
 &lt;blockquote>
 &lt;p>&amp;hellip;As a fanatical computer system fans, I have great enthusiasm for fields like cloud infrastructure, high performance computing. And I enjoy exploring unknown areas to me, such as AI infrastructure, LLMs. As for my future career life, my dream is to become an infrastructure developer designing scalable, robust and high performance systems for all kinds of workload!&amp;hellip;&lt;/p>
 &lt;/blockquote>
-&lt;p>希望在新的一年里我能多多沉淀，多读书多写代码，朝着我的梦想不断前进；也希望我能好好生活好好爱，在闲暇时光多去看看祖国的大好河山！&lt;/p></description></item><item><title>2024年度总结</title><link>https://blog.electronicwaste.cn/p/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</link><pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate><guid>https://blog.electronicwaste.cn/p/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</guid><description>&lt;img src="https://blog.electronicwaste.cn/img/front-page.jpeg" alt="Featured image of post 2024年度总结" /></description></item><item><title>2022年度总结</title><link>https://blog.electronicwaste.cn/p/2022%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</link><pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate><guid>https://blog.electronicwaste.cn/p/2022%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</guid><description>&lt;blockquote>
+&lt;p>希望在新的一年里我能多多沉淀，多读书多写代码，朝着我的梦想不断前进；也希望我能好好生活好好爱，在闲暇时光多去看看祖国的大好河山！&lt;/p></description></item><item><title>2022年度总结</title><link>https://blog.electronicwaste.cn/p/2022%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</link><pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate><guid>https://blog.electronicwaste.cn/p/2022%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</guid><description>&lt;blockquote>
 &lt;p>今晚是除夕夜，非常适合发这种总结性质的博客——辞旧迎新，2022不去，2023不来。&lt;/p>
 &lt;p>从1月14日晚上答辩完正式放假之后，除开吃年夜饭、外出游玩和选购衣服所耗费的时间，我几乎将所有的时间精力投入到了搭建自己的博客中，不过在写完这篇博文之后就要告一段落了（也就是说我很久之后才会更新🐶）。&lt;/p>
 &lt;p>那么，我们开始吧！&lt;/p>
