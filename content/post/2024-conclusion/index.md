@@ -1,7 +1,7 @@
 +++
 author = "Electronic-Waste"
 title = "2024年度总结"
-date = "2024-12-07"
+date = "2024-12-15"
 description = "我想，我会无比怀念这一年"
 categories = [
     "Conclusion"
