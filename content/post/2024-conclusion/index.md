@@ -101,4 +101,12 @@ Ops还是我的室友，从一个宿舍的对角线变成了上下铺，在大�
 
 ## 毕业旅行
 
+量化的实习在四月结束，由于早已完成毕设，接踵而至的不是毕业的焦虑，而是久违的闲暇。我去了许多很远的地方，拓宽了旅游地图，也是第一次有那么长一段时间从学业和工作中解脱出来，享受没有陡峭learning curve的人生。这是一段闪闪发光的日子，青春而又美好。
+
+![北京的春天](img/beijing1.jpeg) ![青岛看海](img/qingdao3.jpeg) ![济南趵突泉](img/jinan1.jpeg) ![人生第一次去看演唱会——JJ20](img/jinan2.jpeg) 
+
+![西安兵马俑](img/xian.jpeg) ![小小泰山！拿捏～](img/taishan.jpeg) ![杭州西湖](img/hangzhou1.jpeg) ![海南！](img/hainan2.jpeg) 
+
+![海南！](img/hainan1.jpeg) ![和朋友们在九寨沟](img/jiuzhai1.jpeg) ![和朋友们在九寨沟](img/jiuzhai2.jpeg) ![若尔盖大草原](img/rouergai1.jpeg)
+
 ## 2024再见，2025你好👋
