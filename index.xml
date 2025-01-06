@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Electronic-Waste的博客</title><link>https://blog.electronicwaste.cn/</link><description>Recent content on Electronic-Waste的博客</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.electronicwaste.cn/index.xml" rel="self" type="application/rss+xml"/><item><title>2024年度总结</title><link>https://blog.electronicwaste.cn/p/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</link><pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate><guid>https://blog.electronicwaste.cn/p/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</guid><description>&lt;h2 id="前言">前言&lt;/h2>
 &lt;p>2024年1月8号，天很冷。但是刚打印好的毕设初稿拿在手里还是热乎乎的，我激动地把它递给任老师，“老师这是我的毕设初稿，都弄完了“，回应我的是意料之中的赞许。离研究生开学还有八个月，面对即将到来的、可以算得上是人生中最自由的一段时光，我既忐忑，又满怀憧憬。&lt;/p>
-&lt;p>一转眼又到了年底，初冬的上海还是那么的冷入骨髓，和年初交毕设初稿时不相上下。回望过去的一年，我感慨道，“真快啊，大学毕业了，成为牛马研究生了”，回应我的却是一个又一个意料之外的惊喜：&lt;strong>四段实习经历、向我敞开怀抱的开源社区，还有那让我毕生难忘的毕业旅行&lt;/strong>······我从未感到如此自由、如此青春，仿佛世间所有的美好都在向我展开。我想，我会无比怀念这一年。&lt;/p>
+&lt;p>一转眼又到了年底，初冬的上海还是那么的冷入骨髓，和年初交毕设初稿时不相上下。回望过去的一年，我感慨道，“真快啊，大学毕业了，成为牛马研究生了”，回应我的却是一个又一个意料之外的惊喜：&lt;strong>一段神奇的缘分、四段实习经历、向我敞开怀抱的开源社区，还有那让我毕生难忘的毕业旅行&lt;/strong>······我从未感到如此自由、如此青春，仿佛世间所有的美好都在向我展开。我想，我会无比怀念这一年。&lt;/p>
 &lt;h2 id="大年三十的上海虹桥站">大年三十的上海虹桥站&lt;/h2>
 &lt;p>印象中好像从来没有这么迟回家过年，今年是头一遭。&lt;/p>
 &lt;p>事情要从交完毕设说起，在任老师的推荐下，我进入了一家和我们实验室有合作关系的量化公司实习。由于成为半个牛马了，自然也要遵循牛马的作息，在学校生活惯了的我此刻也才真真正正对什么是“法定节假日”有了一个切身的体会：过年只有九天假期。虽然早已料到，但是却实在难以接受。相比于学校动辄四周的寒假，打工人的假期真的是太少太珍贵了。&lt;/p>
@@ -31,6 +31,20 @@ data-flex-basis="320px"
 &lt;li>&lt;strong>氛围问题&lt;/strong>：众所周知量化的核心是交易系统和策略，因此在透明度和防贼等方面可能会用力过猛。&lt;/li>
 &lt;/ol>
 &lt;p>综合以上和个人兴趣等因素，我放弃了进非头部量化的就业意向。如果想去量化的话，我鼓励大家早点实习一次看看，毕竟只有自己试过一遍才知道究竟量化适不适合自己，然后慢慢做排除法，逐渐摸索出自己要走的路。&lt;/p>
+&lt;h2 id="清明前夕的北京">清明前夕的北京&lt;/h2>
+&lt;p>在2024年4月3日，清明节前夕，我和吴双在北京缔结了契约，成为了男女朋友。&lt;/p>
+&lt;p>&lt;img src="https://blog.electronicwaste.cn/p/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/wushuang.jpg"
+width="4032"
+height="3024"
+srcset="https://blog.electronicwaste.cn/p/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/wushuang_huc97ffdcfd5a57232a466f8d24ab79ae0_1132150_480x0_resize_q75_box.jpg 480w, https://blog.electronicwaste.cn/p/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/wushuang_huc97ffdcfd5a57232a466f8d24ab79ae0_1132150_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="和我共用一个姓名缩写ws的吴双"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>这段缘分来的十分奇妙又突然，在初春，在本科快毕业的时候，在那段自由的、发着光的日子里，这或许是上天最好的安排。一路上，我们积攒了很多甜蜜快乐的瞬间，一起去了很多很多地方、互相见证对方的重要时刻，我们也因此变成了京沪高铁的常客；也有一些不那么甜蜜、想要放弃的时刻，不过好在我们还是我们，因为爱意最终选择坚持，像她最喜欢的歌手JJ唱的那样，“这一生原本一个人，你坚持厮守成我们，所有未来说好一起等&amp;hellip;”。&lt;/p>
+&lt;p>吴双问过我，我喜欢她什么。我想，在褪去了最初的新鲜感，摘掉了情侣间的柔光滤镜之后，我最喜欢的是你身上的松弛和自洽。我是一个紧绷的人，时时刻刻在思考之后要做什么，之前一段时间里做的怎么样，怎么样才能最大化现有时间的价值，让我自己都时常觉得窒息。有的时候我想成为你，看淡外界的一切东西，专注于自己的感受和生活，懂得取悦自己，松弛而自由地活着，而不是成为一台整日忙忙碌碌的机器。&lt;/p>
 &lt;h2 id="在交大拍毕业照">在交大拍毕业照&lt;/h2>
 &lt;p>今年我本科毕业啦！四年过的真快，快到我来不及细细品味青春，来不及走遍学校的每个角落，来不及向每个给我留下印记的地方道别。住了四年的小破X16宿舍、陪我见证了无数个期末周夜晚的中院小教室、学服被磨秃噜皮的哑铃、emo时必去的思源湖和必吃的麦麦炸鸡，都是青春里像珍珠般发着光的碎片。我会把它们收进记忆的锦盒，永远珍藏、怀念。&lt;/p>
 &lt;p>&lt;img src="https://blog.electronicwaste.cn/p/2024%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/img/my1.jpeg"
