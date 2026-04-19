@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://electronic-waste.github.io/sitemap.xml
